@@ -1,0 +1,13 @@
+{
+  "Accordion": 1,
+  "Button": 17,
+  "Div": 100,
+  "Flex": 24,
+  "Image": 40,
+  "VerticalMenu": 1,
+  "Modal": 1,
+  "Slider": 1,
+  "UnorderedList": 1,
+  "TextBox": 98,
+  "Cascader": 1
+}
